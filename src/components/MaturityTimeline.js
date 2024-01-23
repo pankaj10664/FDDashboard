@@ -42,9 +42,9 @@ const MaturityTimeline = () => {
         </div> 
       </div>
       <div class="absolute left-[18px] top-1/3 w-[170px] text-sm h-6 bg-[#3B39D9] rounded-xl text-center text-white">Utkarsh FD 1</div>
-      <div class="absolute left-[18px] top-[43%] text-sm w-[346px] h-6 bg-[#3B39D9] rounded-xl text-center text-white">Shriram FD Plan 2</div>
-      <div class="absolute left-[100px] top-[53%] w-[250px] h-6 bg-[#3B39D9] text-sm rounded-xl text-center  text-white">Bajaj Finserv FD 1</div>
-      <div class="absolute left-[150px] top-[63%] w-2/3 h-6 text-sm bg-[#3B39D9] rounded-xl text-center  text-white">Mahindra FD Plan 2</div>
+      <div class="absolute left-[18px] top-[43%] text-sm w-[246px] md:w-[346px] h-6 bg-[#3B39D9] rounded-xl text-center text-white">Shriram FD Plan 2</div>
+      <div class="absolute left-[50px] top-[53%] w-[250px] h-6 bg-[#3B39D9] text-sm rounded-xl text-center  text-white">Bajaj Finserv FD 1</div>
+      <div class="absolute left-[80px] top-[63%] w-2/3 h-6 text-sm bg-[#3B39D9] rounded-xl text-center  text-white">Mahindra FD Plan 2</div>
 
 
 
